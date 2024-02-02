@@ -9,7 +9,7 @@ menu:
   archives: /archives/ || archives
   tags: /tags/ || tags
   categories: /categories/ || categories
-  about me: /about me/ || about me
+  about: /about/ || about me
 
 # Color
 color:
@@ -89,7 +89,7 @@ social:
 
 # Override Scrollbar
 scrollbar:
-  type: default # default | simple | normal | none
+  type: none # default | simple | normal | none
 
 # Fab (Float Action Button)
 fab:
@@ -155,7 +155,7 @@ donate:
 
 # Copyright
 post_copyright:
-  enable: true
+  enable: false
 
 # Carrier（copy article with one click）
 carrier:
