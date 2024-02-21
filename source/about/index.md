@@ -1,5 +1,6 @@
 ---
 title: About Me and MyWave
+image: https://images.unsplash.com/photo-1708167457257-25f77d3e411c?q=80&w=3830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 date: 2024-02-02 00:46:44
 ---
 </br>

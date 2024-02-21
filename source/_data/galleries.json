@@ -1,0 +1,17 @@
+[{
+    "name": "What my phone camera sees", 
+    "cover": "/gallary_what_my_phone_camera_sees/IMG_0034.JPG", 
+    "description": "Happy to enjoy with you.",  
+    "photos": [  
+      "/gallary_what_my_phone_camera_sees/IMG_0034.JPG",
+      "/gallary_what_my_phone_camera_sees/IMG_0035.JPG",
+      "/gallary_what_my_phone_camera_sees/IMG_0036.JPG"
+    ]
+  }, {
+    "name": "Me and my new camera",
+    "cover":"/images/theme/post-image.jpg",
+    "description": "I found a cool camera in a local thrift store. Wait for my update!",
+    "photos":[
+        "/images/theme/giphy.gif"
+    ]
+  }]
