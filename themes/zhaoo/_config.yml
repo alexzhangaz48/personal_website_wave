@@ -13,7 +13,7 @@ menu:
 
 # Color
 color:
-  text: '#33333D'
+  text: '#0EB83A'
   text-secondary: '#4e4e4e'
   text-third: '#999999'
   background: '#ffffff'
@@ -39,7 +39,7 @@ favicon:
 # Font
 font:
   size: 14px
-  family:
+  family: OCR A Std, monospace; #Arial Narrow, sans-serif;
 
 # Background Image
 background_image:

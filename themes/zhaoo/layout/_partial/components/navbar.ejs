@@ -59,9 +59,9 @@
 
   <nav class="navbar">
     <div class="left">
-      <% if (theme.navbar.back_home && !is_home()) { %>
-        <i class="iconfont iconhome j-navbar-back-home"></i>
-      <% } %>
+      <!-- <% if (theme.navbar.back_home && !is_home()) { %> -->
+        <!-- <i class="iconfont iconhome j-navbar-back-home"></i> -->
+      <!-- <% } %> -->
       <% if (theme.qrcode.enable) { %>
         <i class="iconfont iconqrcode j-navbar-qrcode"></i>
       <% } %>
@@ -81,16 +81,16 @@
 
           <li class="menu-item" >
           <a href="/ " class="underline active stroke" > Home</a>
-          </li><li class="menu-item">
+          </li>
+          <li class="menu-item">
+            <a href="/galleries/ " class="underline stroke"> Galleries</a>
+          </li>
+          <li class="menu-item">
           <a href="/archives " class="underline stroke"> Archives</a>
           </li><li class="menu-item">
           <a href="/tags/ " class="underline stroke"> Tags</a>
           </li><li class="menu-item">
-          <a href="/references/ " class="underline stroke"> References</a>
-          </li><li class="menu-item">
-          <a href="/galleries/ " class="underline stroke"> Galleries</a>
-          </li><li class="menu-item">
-          <a href="/board/ " class="underline stroke"> Board</a>
+          <a href="/categories/ " class="underline stroke"> References</a>
           </li><li class="menu-item">
           <a href="/about/ " class="underline stroke"> About Me</a>
           </li>
